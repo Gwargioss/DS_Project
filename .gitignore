@@ -1,0 +1,13 @@
+# Ignore build artifacts and user-specific files
+/DS/build/
+*.pro.user
+*.user
+*.o
+*.obj
+debug/
+*.exe
+*.log
+Graph_DB.txt
+.vs/
+/.vscode/
+.idea/

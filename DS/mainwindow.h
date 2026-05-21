@@ -3,7 +3,7 @@
 #define MAINWINDOW_H
 
 #include <QMainWindow>
-#include "Graph.cpp"
+#include "Graph.h"
 QT_BEGIN_NAMESPACE
 namespace Ui {
 class MainWindow;
